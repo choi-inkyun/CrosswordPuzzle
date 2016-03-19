@@ -1,5 +1,5 @@
 # CrosswordPuzzle
-Simple crossword game built with C++ Console. Input text file. It generates a random crossword puzzle.<br>
+Simple crossword game built with C++ Win32 Console. Input text file. It generates a random crossword puzzle.<br>
 Tool : Visual Studio 2015
 
 # ScreenShot
